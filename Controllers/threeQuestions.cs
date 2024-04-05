@@ -10,7 +10,7 @@ namespace SSimMiniChallenge2_4EndpointsMVC.Controllers
     [Route("api/[controller]")]
     public class threeQuestions : ControllerBase
     {
-        [HttpGet]
+        [HttpGet("/doMath")]
         public string DoMath(int a, int b){
              return "The sum of " + a + " + " + b + " is " + (a+b); 
         }

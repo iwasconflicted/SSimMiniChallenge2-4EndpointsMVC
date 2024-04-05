@@ -19,5 +19,7 @@ Design an API with 3 endpoints:
      II. The second statement should tell me if the second number is greater than, less than, or equal to the first number.
 
 Peer reviewed by:
+Neo See
 
 Comments:
+Code looks good and all the API's work great
